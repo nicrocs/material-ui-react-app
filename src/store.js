@@ -1,0 +1,3 @@
+const store = {
+  menuOpen: true
+}

@@ -1,0 +1,389 @@
+[
+  {
+    "_id": "qQtgDe",
+    "desc": "",
+    "account_id": 509,
+    "destination": "570e83f30b37ab737ca13ded",
+    "batteryLevel": 0.98,
+    "metaMessageActive": false,
+    "metaMessage": null,
+    "spoofStatus": {
+      "count": 0
+    },
+    "secure": false,
+    "urlTags": {
+      "custom": [
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e85e10b37ab737ca13ea9",
+          "active": false
+        },
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e85e10b37ab737ca13ea8",
+          "active": false
+        }
+      ],
+      "phyTimeActive": false,
+      "phyIDActive": false
+    },
+    "disabled": false,
+    "name": "Parking Lot #1",
+    "proximity": 2,
+    "redirectUrl": "https://bkon.com/next-steps/"
+  },
+  {
+    "_id": "8rSPTJ",
+    "desc": "",
+    "account_id": 509,
+    "destination": "570e83bf0b37ab737ca13dd7",
+    "batteryLevel": 0.1,
+    "metaMessageActive": false,
+    "metaMessage": null,
+    "spoofStatus": {
+      "count": 0
+    },
+    "secure": false,
+    "urlTags": {
+      "custom": [
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e85290b37ab737ca13e4b",
+          "active": false
+        },
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e85290b37ab737ca13e4a",
+          "active": false
+        }
+      ],
+      "phyTimeActive": false,
+      "phyIDActive": false
+    },
+    "disabled": false,
+    "name": "Help Desk",
+    "proximity": 2,
+    "redirectUrl": "https://bkon.com/next-steps/"
+  },
+  {
+    "_id": "oLkvvu",
+    "desc": "",
+    "account_id": 509,
+    "destination": "570e84800b37ab737ca13e19",
+    "batteryLevel": 0.43,
+    "metaMessageActive": false,
+    "metaMessage": null,
+    "spoofStatus": {
+      "count": 0
+    },
+    "secure": false,
+    "urlTags": {
+      "custom": [
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e85990b37ab737ca13e7b",
+          "active": false
+        },
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e85990b37ab737ca13e7a",
+          "active": false
+        }
+      ],
+      "phyTimeActive": false,
+      "phyIDActive": false
+    },
+    "disabled": false,
+    "name": "Toy Aisle",
+    "proximity": 2,
+    "redirectUrl": "https://bkon.com/next-steps/"
+  },
+  {
+    "_id": "7FBDBb",
+    "desc": "",
+    "account_id": 509,
+    "destination": "570e83f30b37ab737ca13ded",
+    "batteryLevel": 0.1,
+    "metaMessageActive": false,
+    "metaMessage": null,
+    "spoofStatus": {
+      "count": 0
+    },
+    "secure": false,
+    "urlTags": {
+      "custom": [
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e85cb0b37ab737ca13e9d",
+          "active": false
+        },
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e85cb0b37ab737ca13e9c",
+          "active": false
+        }
+      ],
+      "phyTimeActive": false,
+      "phyIDActive": false
+    },
+    "disabled": false,
+    "name": "Front Door",
+    "proximity": 2,
+    "redirectUrl": "https://bkon.com/next-steps/"
+  },
+  {
+    "_id": "kHyJeK",
+    "desc": "",
+    "account_id": 509,
+    "destination": null,
+    "batteryLevel": 0.01,
+    "metaMessageActive": false,
+    "metaMessage": null,
+    "spoofStatus": {
+      "count": 0
+    },
+    "secure": false,
+    "urlTags": {
+      "custom": [
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e86220b37ab737ca13ec9",
+          "active": false
+        },
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e86220b37ab737ca13ec8",
+          "active": false
+        }
+      ],
+      "phyTimeActive": false,
+      "phyIDActive": false
+    },
+    "disabled": true,
+    "name": "Parking Lot #2",
+    "proximity": 2,
+    "redirectUrl": "https://bkon.com/next-steps/"
+  },
+  {
+    "_id": "tYT8wh",
+    "desc": "",
+    "account_id": 509,
+    "destination": null,
+    "batteryLevel": 0.97,
+    "metaMessageActive": false,
+    "metaMessage": null,
+    "spoofStatus": {
+      "count": 0
+    },
+    "secure": false,
+    "urlTags": {
+      "custom": [
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e86160b37ab737ca13ebf",
+          "active": false
+        },
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e86160b37ab737ca13ebe",
+          "active": false
+        }
+      ],
+      "phyTimeActive": false,
+      "phyIDActive": true
+    },
+    "install": {
+      "brand": "-1",
+      "details": "This is to be worn by the on-duty manager",
+      "locationAddress": "",
+      "locationName": "Manager's pocket",
+      "locationType": "mobile",
+      "source": "Alk",
+      "photo": {
+        "close": "",
+        "far": "",
+        "immediate": ""
+      }
+    },
+    "disabled": false,
+    "name": "Manager",
+    "proximity": 2,
+    "redirectUrl": "http://manager.com"
+  },
+  {
+    "_id": "WmmpJU",
+    "desc": "",
+    "account_id": 509,
+    "destination": "570e84ef0b37ab737ca13e3a",
+    "batteryLevel": 0.96,
+    "metaMessageActive": false,
+    "metaMessage": null,
+    "spoofStatus": {
+      "count": 0
+    },
+    "secure": false,
+    "urlTags": {
+      "custom": [
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e85420b37ab737ca13e57",
+          "active": false
+        },
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e85420b37ab737ca13e56",
+          "active": false
+        }
+      ],
+      "phyTimeActive": false,
+      "phyIDActive": false
+    },
+    "disabled": false,
+    "name": "Seasonal Aisle",
+    "proximity": 2,
+    "redirectUrl": "https://bkon.com/next-steps/"
+  },
+  {
+    "_id": "uQxQvx",
+    "desc": "",
+    "account_id": 509,
+    "destination": "570e83d90b37ab737ca13de2",
+    "batteryLevel": 0.94,
+    "metaMessageActive": false,
+    "metaMessage": null,
+    "spoofStatus": {
+      "count": 0
+    },
+    "secure": false,
+    "urlTags": {
+      "custom": [
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e85ba0b37ab737ca13e91",
+          "active": false
+        },
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e85ba0b37ab737ca13e90",
+          "active": false
+        }
+      ],
+      "phyTimeActive": true,
+      "phyIDActive": true
+    },
+    "install": {
+      "brand": "-1",
+      "details": "",
+      "locationAddress": "",
+      "locationName": "",
+      "source": "usb",
+      "photo": {
+        "close": "",
+        "far": "",
+        "immediate": ""
+      }
+    },
+    "disabled": false,
+    "name": "Checkout #1",
+    "proximity": 2,
+    "redirectUrl": "https://bkon.com/next-steps/"
+  },
+  {
+    "_id": "jDBeKA",
+    "desc": "",
+    "account_id": 509,
+    "destination": "570e84490b37ab737ca13e0e",
+    "batteryLevel": 0.82,
+    "metaMessageActive": false,
+    "metaMessage": null,
+    "spoofStatus": {
+      "count": 0
+    },
+    "secure": false,
+    "urlTags": {
+      "custom": [
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e85810b37ab737ca13e6f",
+          "active": false
+        },
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e85810b37ab737ca13e6e",
+          "active": false
+        }
+      ],
+      "phyTimeActive": false,
+      "phyIDActive": false
+    },
+    "disabled": false,
+    "name": "Candy Aisle",
+    "proximity": 2,
+    "redirectUrl": "https://bkon.com/next-steps/"
+  },
+  {
+    "_id": "3sjpaF",
+    "desc": "",
+    "account_id": 509,
+    "destination": "570e83d90b37ab737ca13de2",
+    "metaMessageActive": false,
+    "metaMessage": null,
+    "spoofStatus": {
+      "count": 0
+    },
+    "secure": false,
+    "urlTags": {
+      "custom": [
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e85ab0b37ab737ca13e87",
+          "active": false
+        },
+        {
+          "key": "",
+          "value": "",
+          "_id": "570e85ab0b37ab737ca13e86",
+          "active": false
+        }
+      ],
+      "phyTimeActive": false,
+      "phyIDActive": false
+    },
+    "install": {
+      "brand": "-1",
+      "details": "",
+      "locationAddress": "",
+      "locationName": "",
+      "locationType": "fixed",
+      "source": "usb",
+      "photo": {
+        "close": "",
+        "far": "",
+        "immediate": ""
+      }
+    },
+    "disabled": false,
+    "name": "Checkout #2",
+    "proximity": 2,
+    "redirectUrl": "https://bkon.com/next-steps/"
+  }
+]
