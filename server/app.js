@@ -9,11 +9,11 @@ const request = require('request');
 const bodyParser = require('body-parser');
 const app = express();
 
+
+app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
   extended: true
 }));
-app.use(bodyParser.json());
-
 // Setup logger
 app.use(morgan(':remote-addr - :remote-user [:date[clf]] ":method :url HTTP/:http-version" :status :res[content-length] :response-time ms'));
 
@@ -35,7 +35,7 @@ function getBeaconsOptions(token) {
   return {
     url: "https://pr-448_phy_bkon-connect.ci.bkon.com/api/v2/beacons/",
     headers: {
-      "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjU2MiwiaWF0IjoxNDc1Nzk5MTY3LCJleHAiOjE0NzU5NzE5Njd9.LhN1uwWUQdZVzmwZ2Fl1IP7LZPPZL14v0OFrxAHTz3o",
+      "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjU2MiwiaWF0IjoxNDc2MDU5OTE5LCJleHAiOjE0NzYyMzI3MTl9.QknHyPwZEul0Q_4JtVkYu1tl6yPS_IwVXNIJM7KX-tw",
       "Content-Type": "application/json",
     }
   }

@@ -33,9 +33,9 @@ export default class Beacons extends Component {
       headers: {
         "Content-Type": "application/json"
       },
-      body: {
+      body: JSON.stringify({
         "disabled": status
-      }
+      })
     })
       .then(res => res.json())
       .then(json => {
